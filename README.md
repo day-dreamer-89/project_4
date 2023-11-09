@@ -1,6 +1,11 @@
 ## project-4
 # MediSmart Futures: Sharp Health Predictions
+[https://day-dreamer-89.github.io/project_4] <br/>)
 
+# note: 
+In  order to run the app.py without any errors for loading  the models we recommend the user to run the notebooks first in his/her Python environment. This will save the models according to the users environment variables.
+
+# MediSmart Futures: Sharp Health Predictions
 Welcome to our innovative health prediction project, ["MediSmart Futures: Sharp Health Predictions"]. We're dedicated to leveraging advanced technology and data analytics to forecast heart, liver, and diabetes conditions. Our mission is to empower individuals with early insights and personalized guidance for a healthier tomorrow.
 Our goal is to develop and implement predictive models that enable early detection and proactive management of heart, liver, and diabetes conditions. We aim to provide individuals with accurate risk assessments, personalized health recommendations, and the knowledge they need to make informed decisions, ultimately improving their overall well-being and quality of life.
 
@@ -89,9 +94,9 @@ The project's scope is to provide a valuable tool for General Practitioners (GPs
 •	We have applied logical regression on our data and found out the best one for our dataset.
 •	Machine learning is revolutionizing the field of medicine by enabling accurate diagnosis, personalized treatment, predictive analytics, and remote patient monitoring. The integration of machine learning algorithms with healthcare data has the potential to transform healthcare delivery, improving patient outcomes, reducing costs, and advancing medical research. As the field continues to evolve, it is imperative to address ethical considerations and data privacy concerns to harness the full potential of machine learning in medicine. With continued research and collaboration between healthcare professionals and data scientists, machine learning holds the promise of creating a future where healthcare is more precise, accessible, and effective for all.
 
-# note: 
 
-In  order to run the app.py without any errors for loading  the models we recommend the user to run the notebooks first in his/her python environment. This will save the models according to the users environment variables.
+
+
 
 
 
