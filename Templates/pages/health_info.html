@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health Information</title>
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sharp Health Prediction</h1>
+        <nav>
+            <ul>
+                <li><a href="../pages/home.html">Home</a></li>
+                <li><a href="../pages/health_info.html">Health Information</a></li>
+                <li><a href="../pages/disease.html">Disease Prediction</a></li>
+                <li><a href="../pages/location.html">Find Nearby Hospitals</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="content">
+        <div class="article">
+            <div class="article-title" onclick="toggleArticle(1)">Heart Disease Analysis</div>
+            <div class="article-content" id="article1">
+                <p>This is the content for the article about Heart disease analysis.</p>
+                <p>For more information on Heart Disease, you can <a href="../pages/heart.html">click here</a>.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <div class="article-title" onclick="toggleArticle(2)">Liver Disease Analysis</div>
+            <div class="article-content" id="article2">
+                <p>This is the content for the article about Liver disease analysis.</p>
+                <p>For more information on Liver Disease, you can <a href="../pages/liver.html">click here</a>.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <div class="article-title" onclick="toggleArticle(3)">Diabetes Disease Analyis</div>
+            <div class="article-content" id="article3">
+                <p>This is the content for the article about Diabete diseases analysis.</p>
+                <p>For more information on Diabetes Disease, you can <a href="../pages/diabetes.html">click here</a>.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleArticle(articleNumber) {
+            var article = document.getElementById("article" + articleNumber);
+            if (article.style.display === "block") {
+                article.style.display = "none";
+            } else {
+                article.style.display = "block";
+            }
+        }
+    </script>
+</body>
+</html>
