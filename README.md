@@ -1,6 +1,7 @@
 ## project-4
 # MediSmart Futures: Sharp Health Predictions
-[https://day-dreamer-89.github.io/project_4] <br/>)
+# Our User Interface
+[https://day-dreamer-89.github.io/project_4] <br/>
 
 # note: 
 In  order to run the app.py without any errors for loading  the models we recommend the user to run the notebooks first in his/her Python environment. This will save the models according to the users environment variables.
