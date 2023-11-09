@@ -87,13 +87,13 @@ The project's scope is to provide a valuable tool for General Practitioners (GPs
 
 ![Alt text](<images/Screenshot 2023-11-08 195219.png>)
 
-•	We have done a full examination on a dataset related to diabetes, liver and heart
-•	We have described the features of the dataset. 
-•	We have done basic data analysis. 
-•	We have detected the outliers with a function that we've coded ourselves and got rid of these outlier values for a better machine learning score.
-•	We have visualized our data for better inspection and decision.
-•	We have applied logical regression on our data and found out the best one for our dataset.
-•	Machine learning is revolutionizing the field of medicine by enabling accurate diagnosis, personalized treatment, predictive analytics, and remote patient monitoring. The integration of machine learning algorithms with healthcare data has the potential to transform healthcare delivery, improving patient outcomes, reducing costs, and advancing medical research. As the field continues to evolve, it is imperative to address ethical considerations and data privacy concerns to harness the full potential of machine learning in medicine. With continued research and collaboration between healthcare professionals and data scientists, machine learning holds the promise of creating a future where healthcare is more precise, accessible, and effective for all.
+1.	We have done a full examination on a dataset related to diabetes, liver and heart
+2.	We have described the features of the dataset. 
+3.	We have done basic data analysis. 
+4.	We have detected the outliers with a function that we've coded ourselves and got rid of these outlier values for a better machine learning score.
+5.	We have visualized our data for better inspection and decision.
+6.  We have applied logical regression on our data and found out the best one for our dataset.
+7. 	Machine learning is revolutionizing the field of medicine by enabling accurate diagnosis, personalized treatment, predictive analytics, and remote patient monitoring. The integration of machine learning algorithms with healthcare data has the potential to transform healthcare delivery, improving patient outcomes, reducing costs, and advancing medical research. As the field continues to evolve, it is imperative to address ethical considerations and data privacy concerns to harness the full potential of machine learning in medicine. With continued research and collaboration between healthcare professionals and data scientists, machine learning holds the promise of creating a future where healthcare is more precise, accessible, and effective for all.
 
 
 
